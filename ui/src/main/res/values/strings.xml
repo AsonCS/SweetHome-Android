@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sweet Home</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pattern_url">192.168.0.110</string>
+
+    <string name="filter_view_http_sweet_home">Sweet Home Browser</string>
+
+    <string name="button_description"> </string>
+</resources>

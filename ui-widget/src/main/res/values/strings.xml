@@ -1,0 +1,22 @@
+<resources>
+    <string name="mod_widget_title_widget">Widgets</string>
+
+    <string name="mod_widget_pattern_url">localhost</string>
+
+<!--    <string name="mod_widget_light_toggle">br.com.asoncs.widget.light_toggle</string>-->
+<!--    <string name="mod_widget_tv_c_toggle">br.com.asoncs.widget.tv_c_toggle</string>-->
+<!--    <string name="mod_widget_tv_channel_down">br.com.asoncs.widget.tv_channel_down</string>-->
+<!--    <string name="mod_widget_tv_channel_up">br.com.asoncs.widget.tv_channel_up</string>-->
+<!--    <string name="mod_widget_tv_volume_down">br.com.asoncs.widget.tv_volume_down</string>-->
+<!--    <string name="mod_widget_tv_volume_up">br.com.asoncs.widget.tv_volume_up</string>-->
+<!--    <string name="mod_widget_tv_c_tools">br.com.asoncs.widget.tv_c_tools</string>-->
+<!--    <string name="mod_widget_tv_c_apps">br.com.asoncs.widget.tv_c_apps</string>-->
+<!--    <string name="mod_widget_tv_c_enter">br.com.asoncs.widget.tv_c_enter</string>-->
+<!--    <string name="mod_widget_tv_c_menu">br.com.asoncs.widget.tv_c_menu</string>-->
+<!--    <string name="mod_widget_tv_c_return">br.com.asoncs.widget.tv_c_return</string>-->
+<!--    <string name="mod_widget_tv_c_up">br.com.asoncs.widget.tv_c_up</string>-->
+<!--    <string name="mod_widget_tv_c_left">br.com.asoncs.widget.tv_c_left</string>-->
+<!--    <string name="mod_widget_tv_c_right">br.com.asoncs.widget.tv_c_right</string>-->
+<!--    <string name="mod_widget_tv_c_down">br.com.asoncs.widget.tv_c_down</string>-->
+
+</resources>

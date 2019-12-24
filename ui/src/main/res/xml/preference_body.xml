@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Configurações">
+        <EditTextPreference
+            android:defaultValue="@string/pattern_url"
+            android:dialogTitle="IP route"
+            android:key="ip_route"
+            android:title="IP route" />
+    </PreferenceCategory>
+</PreferenceScreen>

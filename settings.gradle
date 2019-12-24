@@ -1,0 +1,2 @@
+include ':app', ':widget', ':ui', ':ui-widget', ':service'
+rootProject.name='Sweet Home'
